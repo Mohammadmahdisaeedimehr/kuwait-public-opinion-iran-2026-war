@@ -84,7 +84,20 @@ Instead, this repository provides structured outputs, tables, and analytical sum
 - Daily trend data
 - Sensitivity matrix
 - Strategic analytical report
+## Available Outputs
 
+The repository currently includes the following aggregated outputs:
+
+- `outputs/tables/topic_distribution.csv`
+- `outputs/summaries/topic_distribution.md`
+- `outputs/tables/stance_analysis.csv`
+- `outputs/summaries/stance_analysis.md`
+- `outputs/tables/daily_impressions.csv`
+- `outputs/summaries/daily_impressions.md`
+- `outputs/tables/sensitivity_matrix.csv`
+- `outputs/summaries/sensitivity_matrix.md`
+- `outputs/tables/actor_type_comparison.csv`
+- `outputs/summaries/actor_type_comparison.md`
 ---
 
 ## Disclaimer
