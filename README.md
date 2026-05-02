@@ -75,7 +75,53 @@ This is due to:
 Instead, this repository provides structured outputs, tables, and analytical summaries.
 
 ---
+## Key Analytical Snapshots
 
+### Topic Distribution
+
+Iran-related narratives dominate the dataset, accounting for more than 60 percent of total classified content.
+
+See full table:
+- outputs/tables/topic_distribution.csv
+
+---
+
+### Stance Overview
+
+- Iran: overwhelmingly negative (99.90%)
+- United States: mixed perception (29% positive, 71% negative)
+- Israel: fully negative in explicit stance content
+- War continuation: strongly rejected
+- Strait of Hormuz closure: strongly rejected
+
+---
+
+### Attention Dynamics
+
+The highest visibility spike occurs at the beginning of the dataset, followed by multiple secondary waves, indicating sustained rather than short-lived attention.
+
+See:
+- outputs/tables/daily_impressions.csv
+
+---
+
+### Narrative Structure
+
+The discourse is structured around:
+
+- Iran as a central threat node
+- Security and defense concerns in Kuwait
+- The Persian Gulf (خلیج فارس) as an economic-security axis
+- US presence as a contested security factor
+
+---
+
+### Actor Dynamics
+
+- Influencers dominate narrative shaping
+- Ordinary users drive social reaction
+- Official accounts have high visibility but low volume
+---
 ## Outputs
 
 - Topic distribution tables
